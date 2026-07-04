@@ -1,0 +1,2 @@
+cd "c:\Users\Admin\Documents\Demo1"
+py -3 main.py

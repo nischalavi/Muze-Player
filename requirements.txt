@@ -1,3 +1,13 @@
-flet>=0.21.0
-flet-audio>=0.21.0
-tinytag>=1.10.0
+# Muze — Offline Music Player
+# ============================================================
+# ZERO third-party dependencies required!
+# All libraries used are part of the Python standard library:
+#   - tkinter   : cross-platform GUI toolkit (built-in)
+#   - ctypes    : Windows MCI audio engine (built-in)
+#   - threading : background scanning (built-in)
+#   - pathlib   : file path handling (built-in)
+#   - struct    : binary ID3 tag parsing (built-in)
+#
+# OPTIONAL — install for better cover art support on non-PNG covers:
+#   Pillow>=9.0.0
+# ============================================================
